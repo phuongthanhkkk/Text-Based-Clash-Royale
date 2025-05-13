@@ -1,0 +1,106 @@
+[
+    {
+        "Username": "player123",
+        "Password": "password123",
+        "EXP": 150,
+        "Level": 2,
+        "Towers": [
+            {
+                "Type": "King Tower",
+                "HP": 2200,
+                "ATK": 550,
+                "DEF": 330,
+                "CRIT": 10,
+                "EXP": 200
+            },
+            {
+                "Type": "Guard Tower",
+                "HP": 1100,
+                "ATK": 330,
+                "DEF": 110,
+                "CRIT": 5,
+                "EXP": 100
+            },
+            {
+                "Type": "Guard Tower",
+                "HP": 1100,
+                "ATK": 330,
+                "DEF": 110,
+                "CRIT": 5,
+                "EXP": 100
+            }
+        ],
+        "Troops": [
+            {
+                "Name": "Pawn",
+                "HP": 55,
+                "ATK": 165,
+                "DEF": 110,
+                "MANA": 3,
+                "EXP": 5,
+                "Special": ""
+            },
+            {
+                "Name": "Bishop",
+                "HP": 110,
+                "ATK": 220,
+                "DEF": 165,
+                "MANA": 4,
+                "EXP": 10,
+                "Special": ""
+            }
+        ]
+    },
+    {
+        "Username": "player456",
+        "Password": "password456",
+        "EXP": 200,
+        "Level": 3,
+        "Towers": [
+             {
+                "Type": "King Tower",
+                "HP": 2300,
+                "ATK": 560,
+                "DEF": 340,
+                "CRIT": 10,
+                "EXP": 200
+            },
+            {
+                "Type": "Guard Tower",
+                "HP": 1200,
+                "ATK": 340,
+                "DEF": 120,
+                "CRIT": 5,
+                "EXP": 100
+            },
+            {
+                "Type": "Guard Tower",
+                "HP": 1200,
+                "ATK": 340,
+                "DEF": 120,
+                "CRIT": 5,
+                "EXP": 100
+            }
+        ],
+        "Troops": [
+            {
+                "Name": "Pawn",
+                "HP": 60,
+                "ATK": 170,
+                "DEF": 120,
+                "MANA": 3,
+                "EXP": 5,
+                "Special": ""
+            },
+            {
+                "Name": "Bishop",
+                "HP": 120,
+                "ATK": 230,
+                "DEF": 175,
+                "MANA": 4,
+                "EXP": 10,
+                "Special": ""
+            }
+        ]
+    }
+]

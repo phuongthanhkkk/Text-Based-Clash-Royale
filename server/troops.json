@@ -1,0 +1,56 @@
+[
+    {
+        "Name": "Pawn",
+        "HP": 50,
+        "ATK": 150,
+        "DEF": 100,
+        "MANA": 3,
+        "EXP": 5,
+        "Special": ""
+    },
+    {
+        "Name": "Bishop",
+        "HP": 100,
+        "ATK": 200,
+        "DEF": 150,
+        "MANA": 4,
+        "EXP": 10,
+        "Special": ""
+    },
+    {
+        "Name": "Rook",
+        "HP": 250,
+        "ATK": 200,
+        "DEF": 200,
+        "MANA": 5,
+        "EXP": 25,
+        "Special": ""
+    },
+    {
+        "Name": "Knight",
+        "HP": 200,
+        "ATK": 300,
+        "DEF": 150,
+        "MANA": 5,
+        "EXP": 25,
+        "Special": ""
+    },
+    {
+        "Name": "Prince",
+        "HP": 500,
+        "ATK": 400,
+        "DEF": 300,
+        "MANA": 6,
+        "EXP": 50,
+        "Special": ""
+    },
+    {
+        "Name": "Queen",
+        "HP": null,
+        "ATK": null,
+        "DEF": null,
+        "MANA": 5,
+        "EXP": 30,
+        "Special": "Heals the friendly tower with lowest HP by 300"
+    }
+]

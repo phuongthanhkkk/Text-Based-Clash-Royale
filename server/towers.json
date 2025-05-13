@@ -1,0 +1,18 @@
+[
+    {
+        "Type": "King Tower",
+        "HP": 2000,
+        "ATK": 500,
+        "DEF": 300,
+        "CRIT": 10,
+        "EXP": 200
+    },
+    {
+        "Type": "Guard Tower",
+        "HP": 1000,
+        "ATK": 300,
+        "DEF": 100,
+        "CRIT": 5,
+        "EXP": 100
+    }
+]
